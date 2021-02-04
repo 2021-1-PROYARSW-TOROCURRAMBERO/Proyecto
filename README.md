@@ -7,6 +7,6 @@
 ## Licencia & Derechos de Autor
 **©** Alejandro Toro Daza, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
 
-      Juan Sebastián Muñoz Dorado, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+   Juan Sebastián Muñoz Dorado, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
       
 Licencia bajo la [GNU General Public License](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/LICENSE).
