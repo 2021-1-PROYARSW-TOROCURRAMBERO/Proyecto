@@ -19,6 +19,6 @@
 
 [Laura Alejandra Bernal Hernández](https://github.com/lale1507)
 ## Licencia & Derechos de Autor
-**©** Alejandro Toro Daza, Juan Sebastián Muñoz Dorado. [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
+**©** Alejandro Toro Daza, Juan Sebastián Muñoz Dorado, Laura Alejandra Bernal Hernández. [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/).
       
 Licencia bajo la [GNU General Public License](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/LICENSE).
