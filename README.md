@@ -1,7 +1,5 @@
 # Quick Mobility
 
-## Wireframe
-
 ## Diagrama de Clases
 
 ## Diagrama de Secuencia
