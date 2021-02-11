@@ -44,6 +44,10 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/skullzo-2021-1-proyarsw-torocurrambero/timeline "Managed with Taiga.io")
 
+## Enlace a Codacy
+	
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/345169c7075b441fa4ddc246a6a71c9b)](https://www.codacy.com/gh/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=2021-1-PROYARSW-TOROCURRAMBERO/Proyecto&amp;utm_campaign=Badge_Grade)
+
 ## Descripción del Proceso
 
 ### Metodología
