@@ -6,7 +6,7 @@
 
 ### Manual de Usuario
 
-Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:   ---*Agregar URL de Heroku---*
+Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    https://quickmobility.herokuapp.com/
 
 #### Página de Inicio de Sesión
 
@@ -34,7 +34,7 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 ## Enlace a la aplicación en Heroku
 
----*Agregar URL de Heroku*---
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://quickmobility.herokuapp.com/)
 
 ## Enlace al sistema de Integración Continua (Circle CI)
 
