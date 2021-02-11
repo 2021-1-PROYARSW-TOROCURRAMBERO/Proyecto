@@ -1,16 +1,70 @@
 # Quick Mobility
 
-## Diagrama de Clases
+## Descripción del Producto
 
-## Diagrama de Secuencia
+### Descripción General
 
-## Diagrama Componente y Conector (C&C)
+### Manual de Usuario
+
+Para acceder a la página web de Quick Mobility, ingresamos a la URL que es: ---*Agregar URL de Heroku---*
+
+#### Página de Inicio de Sesión
+
+A continuación, vemos la página de inicio de sesión, en la que el usuario puede iniciar sesión en la plataforma de Quick Mobility haciendo uso de sus respectivas credenciales.
+
+---*Agregar imagen de Inicio de Sesión*---
+
+## Arquitectura y Diseño detallado
+
+### Diagrama de Clases
+
+### Diagrama de Secuencia
+
+### Diagrama Componente y Conector (C&C)
+
+### Modelo E-R
+
+## Enlace a la aplicación en Heroku
+
+---*Agregar URL de Heroku*---
+
+## Enlace al sistema de Integración Continua (Circle CI)
+
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto)
 
 ## Enlace a Taiga
 
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/skullzo-2021-1-proyarsw-torocurrambero/timeline "Managed with Taiga.io")
 
-## Autores
+## Descripción del Proceso
+
+### Metodología
+
+Teniendo en cuenta la situación que se vivió tanto en el país de residencia (Colombia) de los tres integrantes como en el mundo de la pandemia, el trabajo fue realizado completamente de manera virtual. No hubo ninguna reunión presencial, todas las reuniones fueron realizadas de forma 100% virtual utilizando la plataforma de **Microsoft Teams**, en la cual realizábamos las sustentaciones de retroalimentación con el profesor, trabajábamos grupalmente desarrollando los Sprints en el horario de clase, y por fuera del horario de clase cada uno por su cuenta realizó las tareas que les fueron asignadas en el **Taiga**.
+
+## Sprint 1
+
+## Sprint 2
+
+## Sprint 3
+
+## Credenciales para las Bases de Datos
+
+* **Host:** 
+
+* **Database:** 
+
+* **User:** 
+
+* **Port:** 
+
+* **Password:** 
+
+* **URI:** 
+
+* **Heroku CLI:** 
+
+## Integrantes
 [Alejandro Toro Daza](https://github.com/Skullzo)
 
 [Juan Sebastián Muñoz Dorado](https://github.com/JuanMunozD)
