@@ -68,13 +68,13 @@ Teniendo en cuenta la situación que se vivió tanto en el país de residencia (
 
 ## Credenciales para las Bases de Datos
 
-  **Host:** 
-  **Database:** 
-  **User:** 
-  **Port:** 
-  **Password:** 
-  **URI:** 
-  **Heroku CLI:** 
+  * **Host:** 
+  * **Database:** 
+  * **User:** 
+  * **Port:** 
+  * **Password:** 
+  * **URI:** 
+  * **Heroku CLI:** 
 
 ---*Completar las Credenciales para las Bases de Datos*---
 
