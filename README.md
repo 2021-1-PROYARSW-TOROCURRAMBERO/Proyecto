@@ -2,11 +2,11 @@
 
 ## Descripción del Producto
 
-### Descripción General
+---*Agregar Descripción del Producto---*
 
 ### Manual de Usuario
 
-Para acceder a la página web de Quick Mobility, ingresamos a la URL que es: ---*Agregar URL de Heroku---*
+Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:   ---*Agregar URL de Heroku---*
 
 #### Página de Inicio de Sesión
 
@@ -18,11 +18,19 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 ### Diagrama de Clases
 
+---*Agregar Diagrama de Clases---*
+
 ### Diagrama de Secuencia
+
+---*Agregar Diagrama de Secuencia---*
 
 ### Diagrama Componente y Conector (C&C)
 
+---*Agregar Diagrama Componente y Conector (C&C)---*
+
 ### Modelo E-R
+
+---*Agregar Modelo E-R---*
 
 ## Enlace a la aplicación en Heroku
 
@@ -44,9 +52,15 @@ Teniendo en cuenta la situación que se vivió tanto en el país de residencia (
 
 ## Sprint 1
 
+---*Sprint 1*---
+
 ## Sprint 2
 
+---*Sprint 2*---
+
 ## Sprint 3
+
+---*Sprint 3*---
 
 ## Credenciales para las Bases de Datos
 
@@ -63,6 +77,8 @@ Teniendo en cuenta la situación que se vivió tanto en el país de residencia (
 * **URI:** 
 
 * **Heroku CLI:** 
+
+---*Completar las Credenciales para las Bases de Datos*---
 
 ## Integrantes
 [Alejandro Toro Daza](https://github.com/Skullzo)
