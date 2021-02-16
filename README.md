@@ -68,13 +68,13 @@ Teniendo en cuenta la situación que se vivió tanto en el país de residencia (
 
 ## Credenciales para las Bases de Datos
 
-**Host:** 
-**Database:** 
-**User:** 
-**Port:** 
-**Password:** 
-**URI:** 
-**Heroku CLI:** 
+**Host:** ec2-3-213-85-90.compute-1.amazonaws.com
+**Database:** dc34s8tgh7pcei
+**User:** fvopgfwpzrrmsj
+**Port:** 5432
+**Password:** b73e274973997cd700b27a3c3822335941ce39c82f19e52f0fc6a27de0271921
+**URI:** postgres://fvopgfwpzrrmsj:b73e274973997cd700b27a3c3822335941ce39c82f19e52f0fc6a27de0271921@ec2-3-213-85-90.compute-1.amazonaws.com:5432/dc34s8tgh7pcei
+**Heroku CLI:** heroku pg:psql postgresql-encircled-90059 --app quickmobility
 
 ---*Completar las Credenciales para las Bases de Datos*---
 
