@@ -14,7 +14,7 @@ public class QuickMobilityApp {
                 = "<!DOCTYPE html>"
                 + "<html>"
                 + "<title>Quick Mobility</title>"
-                + "<body style = \"background: url(https://delvinvillage.com/wp-content/uploads/2020/06/maintenance.png) no-repeat ; background-size: 100% 111%;\">"
+                + "<body style = \"background: url(http://paxforce.com/uc.jpg) no-repeat ; background-size: 100% 111%;\">"
                 + "<br><br>"
                 + "<br><br>"
                 + "<br><br>"
