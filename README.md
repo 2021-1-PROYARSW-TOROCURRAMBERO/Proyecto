@@ -22,7 +22,7 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 ### Diagrama Componente y Conector (C&C)
 
----*Agregar Diagrama Componente y Conector (C&C)---*
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaC&C.PNG)
 
 ### Modelo E-R
 
