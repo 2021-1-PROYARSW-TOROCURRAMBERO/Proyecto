@@ -18,7 +18,7 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 ### Diagrama de Clases
 
----*Agregar Diagrama de Clases---*
+![img](https://github.com/Skullzo/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeClases.PNG)
 
 ### Diagrama Componente y Conector (C&C)
 
