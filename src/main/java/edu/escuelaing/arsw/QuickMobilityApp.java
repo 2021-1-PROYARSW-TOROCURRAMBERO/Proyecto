@@ -14,8 +14,7 @@ public class QuickMobilityApp {
                 = "<!DOCTYPE html>"
                 + "<html>"
                 + "<title>Quick Mobility</title>"
-                + "<body>"
-                + "Hello World!"
+                + "<body style = \"background: url(https://delvinvillage.com/wp-content/uploads/2020/06/maintenance.png) no-repeat ; background-size: 100% 111%;\">"
                 + "</body>"
                 + "</html>";
         return pageContent;
