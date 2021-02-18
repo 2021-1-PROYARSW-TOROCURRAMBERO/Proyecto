@@ -20,6 +20,10 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeClases.PNG)
 
+### Diagrama de Casos de Uso
+
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeCasosDeUso.PNG)
+
 ### Diagrama Componente y Conector (C&C)
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaC&C.PNG)
