@@ -20,10 +20,6 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 ---*Agregar Diagrama de Clases---*
 
-### Diagrama de Secuencia
-
----*Agregar Diagrama de Secuencia---*
-
 ### Diagrama Componente y Conector (C&C)
 
 ---*Agregar Diagrama Componente y Conector (C&C)---*
