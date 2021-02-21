@@ -8,12 +8,6 @@
 
 Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    https://quickmobility.herokuapp.com/
 
-#### Página de Inicio de Sesión
-
-A continuación, vemos la página de inicio de sesión, en la que el usuario puede iniciar sesión en la plataforma de Quick Mobility haciendo uso de sus respectivas credenciales.
-
----*Agregar imagen de Inicio de Sesión*---
-
 ## Arquitectura y Diseño detallado
 
 ### Diagrama de Clases
@@ -61,14 +55,6 @@ Teniendo en cuenta la situación que se vivió tanto en el país de residencia (
 ## Sprint 1
 
 ---*Sprint 1*---
-
-## Sprint 2
-
----*Sprint 2*---
-
-## Sprint 3
-
----*Sprint 3*---
 
 ## Credenciales para las Bases de Datos
 
