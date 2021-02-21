@@ -22,7 +22,7 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 ### Diagrama de Casos de Uso
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeCasosDeUso.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaCasosDeUso.PNG)
 
 ### Diagrama Componente y Conector (C&C)
 
