@@ -50,7 +50,7 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 
 ## Enlace al Wireframe
 
-[Wireframe](https://wireframepro.mockflow.com/view/M39a4215e24029688692f6eff38a2048e1612884258925#/page/e926cf47524e402d82c1af086b441bda).
+[Wireframe](https://wireframepro.mockflow.com/view/M39a4215e24029688692f6eff38a2048e1612884258925#/page/e926cf47524e402d82c1af086b441bda)
 
 ## Descripción del Proceso
 
