@@ -48,6 +48,10 @@ A continuación, vemos la página de inicio de sesión, en la que el usuario pue
 	
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2d0af12fa5624aa49c8cb4d34a95c50d)](https://www.codacy.com/gh/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=2021-1-PROYARSW-TOROCURRAMBERO/Proyecto&amp;utm_campaign=Badge_Grade)
 
+## Enlace al Wireframe
+
+[Wireframe](https://wireframepro.mockflow.com/view/M39a4215e24029688692f6eff38a2048e1612884258925#/page/e926cf47524e402d82c1af086b441bda).
+
 ## Descripción del Proceso
 
 ### Metodología
