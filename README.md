@@ -16,7 +16,7 @@ Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    
 
 ### Diagrama de Casos de Uso
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaCasosDeUso.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeCasosDeUso.PNG)
 
 ### Diagrama Componente y Conector (C&C)
 
