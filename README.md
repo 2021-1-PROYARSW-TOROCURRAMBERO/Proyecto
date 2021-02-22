@@ -54,7 +54,9 @@ Teniendo en cuenta la situación que se vivió tanto en el país de residencia (
 
 ## Sprint 1
 
----*Sprint 1*---
+El primer sprint consistió en primero elaborar apropiadamente la propuesta de proyecto, la cual fue revisada y aprobada por el profesor, y se presentaron las respectivas historias de usuario con cada uno de sus Como, Quiero y Para poder. Luego se presentó el modelo del programa, con el Diagrama de Clases, Casos de Uso, C&C y el Modelo Entidad-Relación. Luego de recibir retroalimentación por el profesor, se procedió a crear la página web y a desplegarla en Heroku con una imagen, para así demostrar los avances que se consiguieron hasta esa fecha. Por último, se agregaron todas las insignias al repositorio, las cuales se vienen incluidas las de Codacy, CircleCI, Heroku y Taiga. El taiga fue elaborado teniendo en cuenta la distribución del trabajo en el grupo, las historias de usuario y las entregas correspondientes al Sprint 1. Asimismo, se elaboró un Wireframe demostrando el prototipo del proyecto para así visualizar la interfaz de usuario final de Quick Mobility. 
+
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Sprint1.PNG)
 
 ## Credenciales para las Bases de Datos
 
