@@ -22,10 +22,6 @@ Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaC&C.PNG)
 
-### Modelo E-R
-
----*Agregar Modelo E-R---*
-
 ## Enlace a la aplicación en Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://quickmobility.herokuapp.com/)
