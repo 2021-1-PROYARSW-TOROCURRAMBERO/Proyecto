@@ -2,7 +2,7 @@
 
 ## Descripción del Producto
 
-**Quick Mobility** se trata sobre una aplicación de movilidad, conectara a pasajeros y conductores con un mismo destino, los usuarios de la aplicación tendrán una plataforma digital que muestre los viajes disponibles en tiempo real y que permita seleccionar cual es la mejor opción para su movilización. De lado del conductor, este podrá publicar la ruta que utilizara para llegar a su destino y así recoger personas que tengan el mismo o parecido destino.
+**Quick Mobility** se trata sobre una aplicación de movilidad, conectar a pasajeros y conductores con un mismo destino, los usuarios de la aplicación tendrán una plataforma digital que muestre los viajes disponibles en tiempo real y que permita seleccionar cual es la mejor opción para su movilización. De lado del conductor, este podrá publicar la ruta que utilizara para llegar a su destino y así recoger personas que tengan el mismo o parecido destino.
 
 ### Manual de Usuario
 
