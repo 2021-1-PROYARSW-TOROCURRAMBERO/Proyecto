@@ -1,4 +1,4 @@
-# Quick Mobility.
+# Quick Mobility
 
 ## Descripción del Producto
 
