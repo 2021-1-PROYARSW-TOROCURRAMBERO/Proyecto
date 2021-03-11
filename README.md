@@ -13,7 +13,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://quickmobility.herokuapp.com/)
 
-### Manual de Usuario
+## Manual de Usuario
 
 Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    https://quickmobility.herokuapp.com/
 
