@@ -8,6 +8,11 @@
 
 Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    https://quickmobility.herokuapp.com/
 
+## Repositorios del Proyecto
+
+* [Front-End del Proyecto](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Front-End).
+* [Back-End del Proyecto](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Back-End).
+
 ## Arquitectura y Diseño detallado
 
 ### Diagrama de Clases
