@@ -4,14 +4,18 @@
 
 **Quick Mobility** se trata sobre una aplicación de movilidad, conectar a pasajeros y conductores con un mismo destino, los usuarios de la aplicación tendrán una plataforma digital que muestre los viajes disponibles en tiempo real y que permita seleccionar cual es la mejor opción para su movilización. De lado del conductor, este podrá publicar la ruta que utilizara para llegar a su destino y así recoger personas que tengan el mismo o parecido destino.
 
-### Manual de Usuario
-
-Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    https://quickmobility.herokuapp.com/
-
 ## Repositorios del Proyecto
 
 * [Front-End del Proyecto](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Front-End).
 * [Back-End del Proyecto](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Back-End).
+
+## Enlace a la aplicación en Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://quickmobility.herokuapp.com/)
+
+### Manual de Usuario
+
+Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    https://quickmobility.herokuapp.com/
 
 ## Arquitectura y Diseño detallado
 
@@ -30,10 +34,6 @@ Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    
 ### Diagrama Entidad Relación (E-R)
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaE-R.PNG)
-
-## Enlace a la aplicación en Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://quickmobility.herokuapp.com/)
 
 ## Enlace al sistema de Integración Continua (Circle CI)
 
