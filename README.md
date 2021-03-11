@@ -29,7 +29,15 @@ Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    
 
 ### Diagrama Componente y Conector (C&C)
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DIagramaC&C1.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DIagramaC&C.PNG)
+
+### Diagrama de Despliegue
+
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeDespliegue.PNG)
+
+### Diagrama Entidad Relación
+
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaE-R.PNG)
 
 ## Enlace al sistema de Integración Continua (Circle CI)
 
