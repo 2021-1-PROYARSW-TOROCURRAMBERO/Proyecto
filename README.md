@@ -29,7 +29,7 @@ Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    
 
 ### Diagrama Componente y Conector (C&C)
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaC&C1.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaComponenteConector.PNG)
 
 ### Diagrama de Despliegue
 
