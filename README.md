@@ -67,6 +67,12 @@ El primer sprint consistió en primero elaborar apropiadamente la propuesta de p
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Sprint1.PNG)
 
+## Sprint 2
+
+En el segundo Sprint se abordaron todas las correcciones realizadas por el profesor en cada una de las retroalimentaciones que tuvimos luego de exponer nuestros avances del proyecto, en las cuales modificamos los diagramas concordes a lo que avanzábamos en cada entrega, en el que poco a poco fuimos diseñando de manera diferente el proyecto. Asimismo, mostramos avances funcionales de la aplicación ya desplegada en Heroku, en la cual los usuarios (tanto el conductor como el pasajero que son los dos tipos de usuario) se le crearon a cada uno de ellos un Dashboard o interfaz de usuario, en la cual el pasajero podía consultar los viajes disponibles, y elegir la mejor opción para el mismo, y del mismo modo con el conductor. También se añadieron funcionalidades como la de inicio de sesión y registro, en la que se implementó en el Back-End del proyecto la persistencia con las respectivas bases de datos para así poder entregar en el segundo Sprint un avance 100% funcional con respecto a lo que se pedía en el enunciado de la entrega del segundo Sprint.
+
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Sprint2.PNG)
+
 ## Integrantes
 [Alejandro Toro Daza](https://github.com/Skullzo)
 
