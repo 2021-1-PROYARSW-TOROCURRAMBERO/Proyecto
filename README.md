@@ -17,6 +17,18 @@
 
 Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    https://quickmobility.herokuapp.com/
 
+### Introducción
+
+Quickmobility es un aplicativo web que termite contactar a usuarios demandantes y ofertantes de un servicio de transporte urbano de manera, rápida, fácil y a bajo costo. Para usar este aplicativo es necesario registrarse dentro de la plataforma, una vez registrado puede navegar entre dos tipos de roles. Estos tipos de roles son:
+
+* a) Pasajero: Usuario el cual requiere de un medio de transporte. 
+* b) Conductor: Usuario que coloca a disposición su automóvil para trasportar uno o más usuarios. 
+
+### Uso de la plataforma
+
+* a) Pasajero: Este usuario podrá ver todos los viajes ofertados, los datos del viaje le permitirán conocer si el servicio a tomar pasa o se dirige por el punto que requiere. 
+
+
 ## Arquitectura y Diseño detallado
 
 ### Diagrama de Clases
