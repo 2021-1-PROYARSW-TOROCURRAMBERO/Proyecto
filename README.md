@@ -59,9 +59,11 @@ En la página inicial, realice clic sobre el botón de Registro que se encuentra
 
 ### Inicio de Sesión
 
-En la página inicial, realice clic sobre el botón de Login que se encuentran en la parte derecha de la parte superior de la web. Para iniciar sesión se requiere llenar los espacios correspondientes como son: Username, Contraseña y el rol desde cual desea ingresar. Luego hacer clic en el botón Entrar.
+En la página inicial, realice clic sobre el botón de Login que se encuentran en la parte derecha de la parte superior de la web.
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/InicioDeSesion1.png)
+
+Para iniciar sesión se requiere llenar los espacios correspondientes como son: Username, Contraseña y el rol desde cual desea ingresar. Luego hacer clic en el botón Entrar.
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/InicioDeSesion2.PNG)
 
