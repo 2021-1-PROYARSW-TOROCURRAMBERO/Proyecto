@@ -21,13 +21,13 @@ Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    
 
 Quickmobility es un aplicativo web que permite contactar a usuarios conductores y pasajeros de un servicio de transporte urbano de manera, rápida, fácil y a bajo costo. Para usar este aplicativo es necesario registrarse dentro de la plataforma, una vez registrado puede navegar entre dos tipos de roles. Estos tipos de roles son:
 
-* Pasajero: Usuario el cual requiere de un medio de transporte. 
-* Conductor: Usuario que coloca a disposición su automóvil para trasportar uno o más usuarios. 
+* **Pasajero:** Usuario el cual requiere de un medio de transporte. 
+* **Conductor:** Usuario que coloca a disposición su automóvil para trasportar uno o más usuarios. 
 
 #### Uso de la plataforma
 
-* Pasajero: Este usuario podrá ver todos los viajes ofertados, los datos del viaje le permitirán conocer si el servicio a tomar pasa o se dirige por el punto que requiere. 
-* Conductor: Este usuario registra en la plataforma un viaje. Este viaje tiene asociado un punto de partida y un punto destino, así como a las zonas por las cuales se desplazar, esto les permitirá a los usuarios pasajeros determinar si el viaje ofertado pasa por los puntos que requiere. 
+* **Pasajero:** Este usuario podrá ver todos los viajes ofertados, los datos del viaje le permitirán conocer si el servicio a tomar pasa o se dirige por el punto que requiere. 
+* **Conductor:** Este usuario registra en la plataforma un viaje. Este viaje tiene asociado un punto de partida y un punto destino, así como a las zonas por las cuales se desplazar, esto les permitirá a los usuarios pasajeros determinar si el viaje ofertado pasa por los puntos que requiere. 
 
 Un ves un usuario pasajero coloco un servicio en disposición y un usuario conductor toma dicho viaje, la plataforma de Quickmobility le notifica al pasajero los usuarios que tomarán el servicio. Estos dos roles son tomados como usuarios y cada uno puede dar una calificación al servicio tomado. 
 
