@@ -31,6 +31,8 @@ Quickmobility es un aplicativo web que permite contactar a usuarios conductores 
 
 Un ves un usuario pasajero coloco un servicio en disposición y un usuario conductor toma dicho viaje, la plataforma de Quickmobility le notifica al pasajero los usuarios que tomarán el servicio. Estos dos roles son tomados como usuarios y cada uno puede dar una calificación al servicio tomado. 
 
+----------
+
 ### Acceso al sitio Web
 
 **Requerimiento:**
@@ -41,11 +43,15 @@ Un ves un usuario pasajero coloco un servicio en disposición y un usuario condu
 
 * https://quickmobility.herokuapp.com/ 
 
+----------
+
 ### Registro
 
 En la página inicial, realice clic sobre el botón de Registro que se encuentran en la parte derecha de la parte superior de la web. Para registrarse requiere llenar los espacios correspondientes como son: Username, Contraseña, barrio, dirección, contraseña, una vez diligenciados todos los espacios realizar clic en Registro. 
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Registro.PNG)
+
+----------
 
 ### Inicio de Sesión
 
@@ -55,11 +61,15 @@ En la página inicial, realice clic sobre el botón de Login que se encuentran e
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/InicioDeSesion2.PNG)
 
+----------
+
 ### Registro de automóvil
 
 Este espacio es exclusivo para ofertantes deservicios, puede registrar todos los autos con los cuales desea prestar el servicio. Para llenar ese formulario es necesario conocer plata, color, y modelo al automóvil. 
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/RegistroDeAutomovil.PNG)
+
+----------
 
 ### Servicios ofertados
 
@@ -67,11 +77,15 @@ Este espacio está disponible para el cualquier que tengas Rol de pasajero, este
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/SolicitudesDePasajeros.PNG)
 
+----------
+
 ### Solicitud de Servicios
 
 En esta sección pobras visualizar todos los usuarios que se han postulado para poder tomar tu servicio. Se podrá visualizar un botón que le permita aceptar o dejar en espera el servicio, también contará con la dirección destino. 
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/SolicitudDeServicios.PNG)
+
+----------
 
 ### Viajes Disponibles
 
