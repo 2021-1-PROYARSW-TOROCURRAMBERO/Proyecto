@@ -37,7 +37,7 @@ Un ves un usuario ofertante coloco un servicio en disposición y un usuario dema
 
 * Acceso de Internet a Dirección Web.
 
-**Ingrese al navegador y escribir en a la barra de direcciones lo siguiente:**
+**Ingrese al navegador y escriba en la barra de direcciones lo siguiente:**
 
 * https://quickmobility.herokuapp.com/ 
 
