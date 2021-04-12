@@ -31,7 +31,7 @@ Quickmobility es un aplicativo web que permite contactar a usuarios conductores 
 
 Un ves un usuario pasajero coloco un servicio en disposición y un usuario conductor toma dicho viaje, la plataforma de Quickmobility le notifica al pasajero los usuarios que tomarán el servicio. Estos dos roles son tomados como usuarios y cada uno puede dar una calificación al servicio tomado. 
 
-### Acceso al sitio Web: 
+### Acceso al sitio Web
 
 **Requerimiento:**
 
