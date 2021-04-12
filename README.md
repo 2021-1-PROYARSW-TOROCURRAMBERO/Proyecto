@@ -21,13 +21,33 @@ Para acceder a la página web de Quick Mobility, ingresamos a la URL que es:    
 
 Quickmobility es un aplicativo web que termite contactar a usuarios demandantes y ofertantes de un servicio de transporte urbano de manera, rápida, fácil y a bajo costo. Para usar este aplicativo es necesario registrarse dentro de la plataforma, una vez registrado puede navegar entre dos tipos de roles. Estos tipos de roles son:
 
-* a) Pasajero: Usuario el cual requiere de un medio de transporte. 
-* b) Conductor: Usuario que coloca a disposición su automóvil para trasportar uno o más usuarios. 
+* Pasajero: Usuario el cual requiere de un medio de transporte. 
+* Conductor: Usuario que coloca a disposición su automóvil para trasportar uno o más usuarios. 
 
-### Uso de la plataforma
+#### Uso de la plataforma
 
-* a) Pasajero: Este usuario podrá ver todos los viajes ofertados, los datos del viaje le permitirán conocer si el servicio a tomar pasa o se dirige por el punto que requiere. 
+* Pasajero: Este usuario podrá ver todos los viajes ofertados, los datos del viaje le permitirán conocer si el servicio a tomar pasa o se dirige por el punto que requiere. 
+* Conductor: Este usuario registra en la plataforma un viaje. Este viaje tiene asociado un punto de partida y un punto destino, así como a las zonas por las cuales se desplazar, esto les permitirá a los usuarios ofertante determinar si el viaje ofertado pasa por los puntos que requiere. 
 
+Un ves un usuario ofertante coloco un servicio en disposición y un usuario demandante toma dicho viaje, la plataforma de Quickmobility le notifica al ofertante los usuarios que tomaran el servicio. Estos dos roles son tomados como usuarios y cada uno puede dar una calificación al servicio tomado. 
+
+### Acceso al sitio Web: 
+
+**Requerimiento:**
+
+* Acceso de Internet a Dirección Web.
+
+**Ingrese al navegador y escribir en a la barra de direcciones lo siguiente:**
+
+* https://quickmobility.herokuapp.com/ 
+
+### Registro
+
+En la página inicial, realice Clic sobre el botón de Registro que se encuentran en la parte derecha de la parte superior de la web. Para registrarse requiere llenar los espacios correspondientes como son: Username, Contraseña, barrio, dirección, contraseña, una vez diligenciados todos los espacios realizar clic en Registro. 
+
+### Inicio de Sesión
+
+En la página inicial, realice clic sobre el botón de Login que se encuentran en la parte derecha de la parte superior de la web. Para iniciar sesión se requiere llenar los espacios correspondientes como son: Username, Contraseña y el rol desde cual desea ingresar. Luego hacer clic en el botón Entrar. 
 
 ## Arquitectura y Diseño detallado
 
