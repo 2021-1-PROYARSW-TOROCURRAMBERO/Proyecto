@@ -107,7 +107,7 @@ Podrás visualizar todas las ofertas de transporte, siempre que te encuentras co
 
 ### Diagrama de Casos de Uso
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeCasosDeUso.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaCasosDeUso.PNG)
 
 ### Diagrama Componente y Conector (C&C)
 
