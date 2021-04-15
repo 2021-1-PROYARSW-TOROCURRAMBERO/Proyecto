@@ -103,7 +103,7 @@ Podrás visualizar todas las ofertas de transporte, siempre que te encuentras co
 
 ### Diagrama de Clases
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeClases1.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeClases.PNG)
 
 ### Diagrama de Casos de Uso
 
@@ -111,11 +111,11 @@ Podrás visualizar todas las ofertas de transporte, siempre que te encuentras co
 
 ### Diagrama Componente y Conector (C&C)
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaCyC.png)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaC&C.png)
 
 ### Diagrama de Despliegue
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeDespliegue.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeDespliegue1.PNG)
 
 ### Diagrama Entidad Relación
 
