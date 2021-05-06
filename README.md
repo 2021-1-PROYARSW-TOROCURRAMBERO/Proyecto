@@ -103,7 +103,7 @@ Podrás visualizar todas las ofertas de transporte, siempre que te encuentras co
 
 ### Diagrama de Clases
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeClases.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaDeClases1.PNG)
 
 ### Diagrama de Casos de Uso
 
