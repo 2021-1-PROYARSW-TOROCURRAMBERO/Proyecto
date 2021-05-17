@@ -49,23 +49,39 @@ Un ves un usuario pasajero coloco un servicio en disposición y un usuario condu
 
 ----------
 
-### Registro
+### Inicio de Sesión
 
-En la página inicial, realice clic sobre el botón de Registro que se encuentran en la parte derecha de la parte superior de la web. Para registrarse requiere llenar los espacios correspondientes como son: Username, Contraseña, barrio, dirección, contraseña, una vez diligenciados todos los espacios realizar clic en Registro. 
+En la página inicial, realice clic sobre el botón de **Ingresar** que se encuentra en la parte superior de la página web.
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Registro.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/InicioDeSesion1.1.png)
+
+Para iniciar sesión se requiere llenar los espacios correspondientes como son: Nombre de Usuario, Contraseña y el rol desde cual desea ingresar. Luego hacer clic en el botón Entrar.
+
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/InicioDeSesion2.PNG)
 
 ----------
 
-### Inicio de Sesión
+### Registro
 
-En la página inicial, realice clic sobre el botón de Login que se encuentran en la parte derecha de la parte superior de la web.
+En la página inicial, realice clic sobre el botón de **Registro** que se encuentra en la parte superior de la página web.
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/InicioDeSesion1.png)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Registro1.png)
 
-Para iniciar sesión se requiere llenar los espacios correspondientes como son: Username, Contraseña y el rol desde cual desea ingresar. Luego hacer clic en el botón Entrar.
+En la página inicial, realice clic sobre el botón de Registro que se encuentran en la parte derecha de la parte superior de la web. Para registrarse se requiere rellenar los espacios correspondientes como son: Username, Contraseña, Barrio, Dirección y Contraseña. Una vez diligenciados todos los espacios, realizar clic en Registro. 
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/InicioDeSesion2.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Registro2.PNG)
+
+----------
+
+### Acerca de
+
+En la página inicial, realice clic sobre el botón de **Acerca de** que se encuentra en la parte superior de la página web.
+
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade1.PNG)
+
+Una ves realizado clic sobre el botón **Acerca de**, se moveráautomáticamente la página web a la parte inferior de la página, en la cual el usuario podrá consultar información adicional acerca de Quick Mobility.
+
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade2.png)
 
 ----------
 
