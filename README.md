@@ -77,11 +77,11 @@ En la página inicial, realice clic sobre el botón de Registro que se encuentra
 
 En la página inicial, realice clic sobre el botón de **Acerca de** que se encuentra en la parte superior de la página web.
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade1.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade2.png)
 
 Una ves realizado clic sobre el botón **Acerca de**, se moveráautomáticamente la página web a la parte inferior de la página, en la cual el usuario podrá consultar información adicional acerca de Quick Mobility.
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade2.png)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade1.PNG)
 
 ----------
 
