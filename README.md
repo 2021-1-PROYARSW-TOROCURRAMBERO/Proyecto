@@ -81,7 +81,7 @@ En la página inicial, realice clic sobre el botón de **Acerca de** que se encu
 
 Una ves realizado clic sobre el botón **Acerca de**, se moveráautomáticamente la página web a la parte inferior de la página, en la cual el usuario podrá consultar información adicional acerca de Quick Mobility.
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade1.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade1.1.PNG)
 
 ----------
 
