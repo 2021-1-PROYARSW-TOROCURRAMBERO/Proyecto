@@ -51,7 +51,7 @@ Un ves un usuario pasajero coloco un servicio en disposición y un usuario condu
 
 ### Inicio de Sesión
 
-En la página inicial, realice clic sobre el botón de **Ingresar** que se encuentra en la parte superior derecha de la página web.
+En la página inicial, realice clic sobre el botón de **Ingresar** que se encuentra en la parte superior de la página web.
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/InicioDeSesion1.1.png)
 
@@ -63,7 +63,7 @@ Para iniciar sesión se requiere llenar los espacios correspondientes como son: 
 
 ### Registro
 
-En la página inicial, realice clic sobre el botón de **Registro** que se encuentra en la parte superior derecha de la página web.
+En la página inicial, realice clic sobre el botón de **Registro** que se encuentra en la parte superior de la página web.
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Registro1.png)
 
@@ -75,7 +75,7 @@ En la página inicial, realice clic sobre el botón de Registro que se encuentra
 
 ### Acerca de
 
-En la página inicial, realice clic sobre el botón de **Acerca de** que se encuentra en la parte superior derecha de la página web.
+En la página inicial, realice clic sobre el botón de **Acerca de** que se encuentra en la parte superior de la página web.
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Acercade1.png)
 
