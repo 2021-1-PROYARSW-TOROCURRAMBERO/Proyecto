@@ -137,6 +137,21 @@ Podrás visualizar todas las ofertas de transporte, siempre que te encuentras co
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaE-R.PNG)
 
+## Heurísticas
+
+Para la realización de Quick Mobility, fueron realizadas las siguientes heurísticas:
+
+* Usabilidad.
+* Seguridad.
+
+### Usabilidad
+
+
+
+### Seguridad
+
+
+
 ## Enlace al sistema de Integración Continua (Circle CI)
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto)
