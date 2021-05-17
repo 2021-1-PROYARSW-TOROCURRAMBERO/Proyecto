@@ -45,7 +45,7 @@ Un ves un usuario pasajero coloco un servicio en disposición y un usuario condu
 
 **Se mostrará a continuación la interfaz de usuario del menú principal de QuickMobility.**
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Menu.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/MenuPrincipal.PNG)
 
 ----------
 
