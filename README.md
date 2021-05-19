@@ -145,6 +145,7 @@ Para la realización de Quick Mobility, fueron realizadas las siguientes heurís
 * Seguridad.
 
 ### Usabilidad
+Para la aplicación de este euristica, se realizo una seria se encuestas. En este encuestas se evaluo la ubicación, diseño y funcionalidad de los diferentes servicios. Despues de realizada las encuentas, se realizo el analisis de los resultados obtenidos. Estos resultados nos llevo a modificar algunos aspectos del frontEnd y asi mismo rectificamos que todos los servicios que prestaba el aplicativo webfuncionaran duacuerdo a su proposito y diseño.
 
 
 
