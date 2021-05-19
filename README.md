@@ -137,7 +137,7 @@ Podrás visualizar todas las ofertas de transporte, siempre que te encuentras co
 
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/DiagramaE-R.PNG)
 
-## Heurísticas
+## Atributos No Funcionales
 
 Para la realización de Quick Mobility, fueron realizadas las siguientes heurísticas:
 
@@ -150,6 +150,8 @@ Para la aplicación de este euristica, se realizo una seria se encuestas. En est
 
 
 ### Seguridad
+Unos de los atributos no funcionales mas importantes en este aplicativo web es la seguridad, para esto era vital verificar constantemente que la cuenta donde se cuentre activa esta siendo usado por la persona dueña de la misma. Para cumplir con este objetivo se implementaron Tokens, los cuales tiene la función de verificar el estado de actividad y si pasados los 5 minutos este no tiene es usado pasa a cerrar la sesión y a pedir nuevamente las credenciales para ingresar. Para ilustrar dicho comportamiento se relizaod una prueba, este se cuentra documentada en el siguiente video de YouTube: https://www.youtube.com/watch?v=4XIgWITx11E
+![img]()
 
 
 
