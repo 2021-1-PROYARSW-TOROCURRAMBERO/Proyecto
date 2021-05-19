@@ -148,12 +148,15 @@ Para la realización de Quick Mobility, fueron realizadas las siguientes heurís
 Para la aplicación de este euristica, se realizo una seria se encuestas. En este encuestas se evaluo la ubicación, diseño y funcionalidad de los diferentes servicios. Despues de realizada las encuentas, se realizo el analisis de los resultados obtenidos. Estos resultados nos llevo a modificar algunos aspectos del frontEnd y asi mismo rectificamos que todos los servicios que prestaba el aplicativo webfuncionaran duacuerdo a su proposito y diseño.
 
 En esta sección se evaluo el orden, contenido y funcionalidad de la aplicación como un global. Este obtuvo resultados favorables en su contenido y funcionalidad con un 100% de forma afirmativa y en la sección orden obtuvo una puntuación de 5 de mas del 71% de los encuestados. 
+
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Encuesta-general.PNG)
 
 En esta sección de la encuesta se evaluo contenido, funcionalidad y experiencia de usuario en el Rol de Pasajero. En experiencia de usuario se obtuvieron resultados favorables de mas del 85% de los encuenestados. En la sección del contenido, en la sección de "Solicitudes activas" si estuvo dividida la puntuación de los encuestionados y se reforzo esta parte. En la sección de "Viajes Disponibles" se obtuvo una respuesta positivo de mas del 92% de los encuestados evaluando su funcionalidad.
+
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Encuesta-pasajero.PNG)
 
 En esta sección de la encuesta se evaluo contenido, funcionalidad y experiencia de usuario en el Rol de Conductor. En el orden del contenido se obtuvieron favorable de mas 92% de los encuestados. A nivel de funcionalidad se evaluaron cuatro secciones vitales (1) Registro de automovil, (2) Ver mis carros, (3) Ofrecer viajes, (4) Solicitudes de viajes en estas secciones se califico funcionalidad y contenido, donde mas del 70% de los encuestados dieron puntajes positivos entre 4-5.
+
 ![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Encuesta-pasajero.PNG)
 
 ### Seguridad
