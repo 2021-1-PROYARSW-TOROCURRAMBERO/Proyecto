@@ -191,7 +191,7 @@ En el segundo Sprint se abordaron todas las correcciones realizadas por el profe
 
 En el tercer sprint se abordaron todas las correcciones basándonos en todas las retroalimentaciones realizadas en cada sesión del laboratorio del curso, en las cuales tocó reestructurar en parte el Diagrama Componente Conector (C&C), el Diagrama de Clases y otros aspectos del código. En este sprint también se inició la implementación dentro de la aplicación la nueva funcionalidad en tiempo real (Real Time), en la que los usuarios de la aplicación, luego de solicitar un viaje disponible, este viaje en ese mismo momento desaparecía para los otros usuarios, en la cual se hicieron las pruebas correspondientes tanto dentro de la aplicación como en las bases de datos, para asegurar el funcionamiento correcto del código. También se desarrollaron las heurísticas correspondientes, que fueron **Usabilidad** y **Seguridad**, y estas fueron incluidas en este mismo repositorio del proyecto, mostrando de que forma fueron hechas cada una de ellas, para así en el entregable del proyecto, tener una aplicación completamente funcional y agradable para el usuario.
 
-![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Sprint3.PNG)
+![img](https://github.com/2021-1-PROYARSW-TOROCURRAMBERO/Proyecto/blob/main/img/Spring3.PNG)
 
 ## Integrantes
 [Alejandro Toro Daza](https://github.com/Skullzo)
