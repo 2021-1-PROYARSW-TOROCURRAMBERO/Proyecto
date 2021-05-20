@@ -139,7 +139,7 @@ Podrás visualizar todas las ofertas de transporte, siempre que te encuentras co
 
 ## Atributos No Funcionales
 
-Para la realización de Quick Mobility, fueron realizadas las siguientes heurísticas:
+Para la realización de Quick Mobility, fueron realizados los siguientes atributos no funcionales:
 
 * Usabilidad.
 * Seguridad.
